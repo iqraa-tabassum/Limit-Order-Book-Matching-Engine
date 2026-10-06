@@ -1,4 +1,4 @@
-*** Limit Order Book / Matching Engine in C++
+🔖 Limit Order Book / Matching Engine in C++
 Built a limit order book and matching engine in C++ supporting price-time priority matching, partial fills, order cancellation and trade history.
 
 Features:
